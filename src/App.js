@@ -1,13 +1,13 @@
 import {Component} from 'react'
 import {BrowserRouter, Switch, Route, Redirect} from 'react-router-dom'
 
-import Login from './Components/Login'
-import NotFound from './Components/NotFound'
-import Home from './Components/Home'
-import RestaurantDetails from './Components/RestaurantDetails'
-import Cart from './Components/Cart'
-import ProtectedRoute from './Components/ProtectedRoute'
-import CartContext from './Context/CartContext'
+import Login from './components/Login'
+import NotFound from './components/NotFound'
+import Home from './components/Home'
+import RestaurantDetails from './components/RestaurantDetails'
+import Cart from './components/Cart'
+import ProtectedRoute from './components/ProtectedRoute'
+import CartContext from './context/CartContext'
 
 import './App.css'
 

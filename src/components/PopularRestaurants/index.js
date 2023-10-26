@@ -5,7 +5,6 @@ import {RiArrowDropLeftLine, RiArrowDropRightLine} from 'react-icons/ri'
 import Cookies from 'js-cookie'
 import Loader from 'react-loader-spinner'
 
-import RestaurantsHeader from '../RestaurantsHeader'
 import RestaurantCard from '../RestaurantCard'
 
 import './index.css'
